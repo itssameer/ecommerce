@@ -37,7 +37,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "sass": "^1.32.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itssameer/ecommerce.git"
@@ -50,6 +52,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itssameer/ecommerce/issues"
-  },
-  "homepage": "https://github.com/itssameer/ecommerce#readme"
+  }
 }
